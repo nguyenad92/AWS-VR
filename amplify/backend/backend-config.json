@@ -1,0 +1,9 @@
+{
+	"auth": {
+		"divevrfrontendf5b7a10f": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": []
+		}
+	}
+}

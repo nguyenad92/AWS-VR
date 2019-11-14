@@ -1,0 +1,19 @@
+{
+    "vr": {
+        "awscloudformation": {
+            "AuthRoleName": "divevrfrontend-vr-20191114013125-authRole",
+            "UnauthRoleArn": "arn:aws:iam::250387501934:role/divevrfrontend-vr-20191114013125-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::250387501934:role/divevrfrontend-vr-20191114013125-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "divevrfrontend-vr-20191114013125-deployment",
+            "UnauthRoleName": "divevrfrontend-vr-20191114013125-unauthRole",
+            "StackName": "divevrfrontend-vr-20191114013125",
+            "StackId": "arn:aws:cloudformation:us-east-1:250387501934:stack/divevrfrontend-vr-20191114013125/8763c960-06c1-11ea-aafd-0ad6b76236b1"
+        },
+        "categories": {
+            "auth": {
+                "divevrfrontendf5b7a10f": {}
+            }
+        }
+    }
+}
