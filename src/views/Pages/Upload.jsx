@@ -5,7 +5,7 @@ import CssBaseline from '@material-ui/core/CssBaseline';
 import Typography from '@material-ui/core/Typography';
 import Container from '@material-ui/core/Container';
 
-import Amplify, { API, graphqlOperation, Storage } from 'aws-amplify';
+import Amplify, { Storage } from 'aws-amplify';
 import { withAuthenticator, S3Image } from 'aws-amplify-react';
 import { v4 as uuid } from 'uuid';
 import { Divider, Form, Grid, Header, Input, List, Segment } from 'semantic-ui-react';
